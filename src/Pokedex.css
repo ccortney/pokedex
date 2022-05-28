@@ -1,0 +1,9 @@
+.Pokedex-Heading {
+    text-align: center;
+}
+
+.Pokedex {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
